@@ -1,6 +1,6 @@
 ### Hi there, I'm Avik - aka [ATinyLearner]👋
 
-## I'm a Student, Developer, and Teacher!!
+## I'm a Student, Developer, and Content Creator!!
 
 - 🔭 I currently working on Flutter framework
 - 🌱 I’m currently learning everything 🤣
@@ -10,7 +10,7 @@
 
 
 ### Connect with me:
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][Modern Computer Application]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 

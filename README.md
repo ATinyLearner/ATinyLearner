@@ -2,7 +2,7 @@
 
 ## I'm a Student, Developer, and Content Creator!!
 
-- 🔭 I currently working on Flutter framework
+- 🔭 I'm currently working on Flutter framework
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Become an AI and ML expert

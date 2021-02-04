@@ -17,6 +17,11 @@
 <br />
 
 ### Languages and Tools:
+![Dart](https://github.com/ATinyLearner/ATinyLearner/blob/main/dart.png)
+![Flutter](https://github.com/ATinyLearner/ATinyLearner/blob/main/flutter.png)
+![Java](https://github.com/ATinyLearner/ATinyLearner/blob/main/java.png)
+![Python](https://github.com/ATinyLearner/ATinyLearner/blob/main/python.png)
+![VS Code](https://github.com/ATinyLearner/ATinyLearner/blob/main/Visual-studio-code.png)
 
 
 

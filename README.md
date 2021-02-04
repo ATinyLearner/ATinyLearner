@@ -13,6 +13,8 @@
 [<img align="left" alt="Channel Anulipee | YouTube" width="22px" src="https://github.com/ATinyLearner/ATinyLearner/blob/main/youtube.png" />][Modern Computer Application]
 [<img align="left" alt="Avik Ghosh | LinkedIn" width="22px" src="https://github.com/ATinyLearner/ATinyLearner/blob/main/linkedin.png" />][linkedin]
 [<img align="left" alt="Amazing Avik | Instagram" width="22px" src="https://github.com/ATinyLearner/ATinyLearner/blob/main/instagram.png" />][instagram]
+[<img align="left" alt="Anulipee | Facebook" width="22px" src="https://github.com/ATinyLearner/ATinyLearner/blob/main/facebook.png" />][facebook]
+
 
 <br />
 
@@ -23,7 +25,11 @@
 ![Python](https://github.com/ATinyLearner/ATinyLearner/blob/main/python.png)
 ![VS Code](https://github.com/ATinyLearner/ATinyLearner/blob/main/Visual-studio-code.png)
 ![Terminal](https://github.com/ATinyLearner/ATinyLearner/blob/main/console.png)
-
+![Firebase](https://github.com/ATinyLearner/ATinyLearner/blob/main/firebase.png)
+![SQL](https://github.com/ATinyLearner/ATinyLearner/blob/main/sql.png)
+![HTML](https://github.com/ATinyLearner/ATinyLearner/blob/main/html-5.png)
+![CSS](https://github.com/ATinyLearner/ATinyLearner/blob/main/css3.png)
+![JavaScript](https://github.com/ATinyLearner/ATinyLearner/blob/main/javascript.png)
 
 
 <details>

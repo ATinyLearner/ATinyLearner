@@ -10,9 +10,9 @@
 
 
 ### Connect with me:
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][Modern Computer Application]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Channel Anulipee | YouTube" width="22px" src="https://github.com/ATinyLearner/ATinyLearner/blob/main/youtube.png" />][Modern Computer Application]
+[<img align="left" alt="Avik Ghosh | LinkedIn" width="22px" src="https://github.com/ATinyLearner/ATinyLearner/blob/main/linkedin.png" />][linkedin]
+[<img align="left" alt="Amazing Avik | Instagram" width="22px" src="https://github.com/ATinyLearner/ATinyLearner/blob/main/instagram.png" />][instagram]
 
 <br />
 

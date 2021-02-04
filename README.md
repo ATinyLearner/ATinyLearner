@@ -22,6 +22,7 @@
 ![Java](https://github.com/ATinyLearner/ATinyLearner/blob/main/java.png)
 ![Python](https://github.com/ATinyLearner/ATinyLearner/blob/main/python.png)
 ![VS Code](https://github.com/ATinyLearner/ATinyLearner/blob/main/Visual-studio-code.png)
+![Terminal](https://github.com/ATinyLearner/ATinyLearner/blob/main/console.png)
 
 
 
@@ -32,7 +33,7 @@
 
 </details>
 
-
+[facebook]: https://www.facebook.com/ChannelAnulipee
 [youtube]: https://www.youtube.com/channel/UCPJDL9PFt3pYf7KCsYpvdSA
 [instagram]: https://www.instagram.com/amazing_avik/
 [linkedin]: https://www.linkedin.com/in/avik-ghosh-369753159/

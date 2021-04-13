@@ -2,7 +2,7 @@
 
 ## I'm a Student, Developer, and Content Creator!!
 
-- 🔭 I'm currently working/learning on Python Language
+- 🔭 I'm currently working on/learning Python Language
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Become an AI and ML expert

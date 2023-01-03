@@ -5,7 +5,7 @@
 - 🔭 I'm currently working on/learning Python Language
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Become an AI and ML expert
+- 🥅 2023 Goals: Become an AI and ML expert
 - ⚡ Fun fact: I love to sing and play games
 
 
